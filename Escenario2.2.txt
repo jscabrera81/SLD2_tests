@@ -1,0 +1,170 @@
+NIPReport: NIPtoDest = 65500 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:06:57
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1 SynchroTime Sleep: 64977ms    Sync Window = 3ms   Tasks = 0   
+Wake up = Unactivated   TxVolt = 3293mV   Temp = 23°C   RSSI = -57dB   BBatTx = 65535   BBatHr = 2376   BBat = 
+100%   Frequency work = 173   TasksIDs = 
+
+Mark5: -1
+Unit Version: 24.00
+Unit ID: AABB06
+Unit in Search RxMode
+
+
+TMPReport: TMPtoNIPTime = 143 ms  Nr = 42
+NIPReport: NIPtoDest = 8158 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:07:13
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 0ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 23°C   RSSI = -57dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+NIPReport: NIPtoDest = 8157 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:07:21
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 2ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 23°C   RSSI = -58dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+NIPReport: NIPtoDest = 8156 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:07:29
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 3ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 23°C   RSSI = -56dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+NIPReport: NIPtoDest = 8155 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:07:37
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 3ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 43°C   RSSI = -47dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+NIPReport: NIPtoDest = 8156 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:07:45
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 4ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 61°C   RSSI = -47dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+NIPReport: NIPtoDest = 8154 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:07:53
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 3ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 68°C   RSSI = -48dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+NIPReport: NIPtoDest = 8155 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:08:01
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 5ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 71°C   RSSI = -47dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63980ms NIPReport: NIPtoDest = 32732 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:08:09
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 4ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 67°C   RSSI = -56dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+NIPReport: NIPtoDest = 65499 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:08:41
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 3ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 54°C   RSSI = -49dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63974ms NIPReport: NIPtoDest = 65498 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:09:45
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 3ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 58°C   RSSI = -46dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63985ms NIPReport: NIPtoDest = 65496 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:10:49
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 2ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 61°C   RSSI = -52dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63975ms NIPReport: NIPtoDest = 65497 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:11:53
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 4ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 66°C   RSSI = -48dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63974ms NIPReport: NIPtoDest = 65498 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:12:57
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 4ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 66°C   RSSI = -50dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63989ms NIPReport: NIPtoDest = 65496 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:14:01
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 3ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 71°C   RSSI = -52dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63981ms NIPReport: NIPtoDest = 65497 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:15:05
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 6ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 50°C   RSSI = -51dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63972ms NIPReport: NIPtoDest = 65498 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:16:09
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 5ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 73°C   RSSI = -46dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63975ms NIPReport: NIPtoDest = 65496 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:17:13
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 3ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 71°C   RSSI = -58dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63977ms NIPReport: NIPtoDest = 65497 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:18:17
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 6ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 61°C   RSSI = -56dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63974ms NIPReport: NIPtoDest = 65498 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:19:21
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 5ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 68°C   RSSI = -46dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63974ms NIPReport: NIPtoDest = 65499 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:20:25
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 4ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 68°C   RSSI = -59dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63967ms NIPReport: NIPtoDest = 65497 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:21:29
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 3ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 72°C   RSSI = -58dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63984ms NIPReport: NIPtoDest = 65498 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:22:33
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 5ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 68°C   RSSI = -46dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63988ms NIPReport: NIPtoDest = 65499 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:23:37
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 4ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 63°C   RSSI = -53dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63990ms NIPReport: NIPtoDest = 65500 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:24:41
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 5ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 46°C   RSSI = -57dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63990ms NIPReport: NIPtoDest = 65501 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:25:45
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 4ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 48°C   RSSI = -44dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+ SynchroTime Sleep: 63988ms NIPReport: NIPtoDest = 65500 ms  Dest = 0  NIPPayload = 000000
+Date: September 1, 2022          Time Rx: 16:26:49
+UnitID = AABB06   TowerID = AAB1   SlotRx = 1   Sync Window = 2ms   Tasks = 0   Wake up = Unactivated   TxVolt 
+= 3293mV   Temp = 44°C   RSSI = -45dB   BBatTx = 65535   BBatHr = 2380   BBat = 100%   Frequency work = 173   
+TasksIDs = 
+
+
