@@ -7,7 +7,7 @@ temp = []
 nipToDest = []
 time = []
 WakeUp = []
-with open("C:/Users/juans/OneDrive/ceci/SLD/Pruebas Manuales SLD2-CS/SIP/Escenario3.txt") as fname:
+with open("C:/Users/juans/OneDrive/ceci/SLD/Pruebas Manuales SLD2-CS/SIP Alta temp Compensacion Inactiva/Escenario5 - SIP High Temp Com Unactive.txt") as fname:
 	for lineas in fname:
 		datos2.extend(lineas.split())
 for index, val in enumerate (datos2): 
